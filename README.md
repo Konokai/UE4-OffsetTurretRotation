@@ -1,6 +1,8 @@
 # UE4-OffsetTurretRotation
 
-This project shows how to rotate a turret with an offset aim joint. It was created in response to this thread: [Aiming a turret (Math question)](https://forums.unrealengine.com/showthread.php?151040-Aiming-a-turret-(Math-question))
+![TurretGif](https://raw.githubusercontent.com/Konokai/UE4-OffsetTurretRotation/master/TurretGif.gif)
+
+This project shows how to rotate a turret with an offset aim joint.
 
 For a mathematical explanation, see: [CalculatingPitch.pdf](https://github.com/Konokai/UE4-OffsetTurretRotation/blob/master/CalculatingPitch.pdf)
 
