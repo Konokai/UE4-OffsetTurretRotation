@@ -2,6 +2,9 @@
 
 ![TurretGif](https://raw.githubusercontent.com/Konokai/UE4-OffsetTurretRotation/master/TurretGif.gif)
 
+Watch the video explanation here:
+https://www.youtube.com/watch?v=rWVJPmaOiKQ
+
 This project shows how to rotate a turret with an offset aim joint.
 
 For a mathematical explanation, see: [CalculatingPitch.pdf](https://github.com/Konokai/UE4-OffsetTurretRotation/blob/master/CalculatingPitch.pdf)
